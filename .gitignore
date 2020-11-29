@@ -1,5 +1,9 @@
 data/
 code/mothur/
 
+# Allow these
+data/references/genome_id_taxonomy.tsv
+data/processed/rrnDB.easv.count_tibble
+
 *logfile
 .Rproj.user
